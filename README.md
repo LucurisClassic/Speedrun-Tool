@@ -23,5 +23,5 @@ Automatically split your runs when a boss dies.
   
 ### Running the Script
   * Open Command Prompt from the Start Menu.
-  * Type: python C:\path\to\splits.py
+  * Type: `python C:\path\to\splits.py`
   * Press the hotkey when you initiate the first pull and the script will handle the rest.
