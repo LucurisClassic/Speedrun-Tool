@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>
+  </GameName>
+  <CategoryName>
+  </CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>9</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="11/06/2019 01:22:09" isStartedSynced="True" ended="11/06/2019 01:22:12" isEndedSynced="True" />
+    <Attempt id="2" started="11/06/2019 01:22:16" isStartedSynced="True" ended="11/06/2019 01:22:19" isEndedSynced="True" />
+    <Attempt id="3" started="11/13/2019 00:37:26" isStartedSynced="True" ended="11/13/2019 00:37:34" isEndedSynced="True" />
+    <Attempt id="4" started="11/13/2019 00:38:08" isStartedSynced="True" ended="11/13/2019 00:38:10" isEndedSynced="True" />
+    <Attempt id="5" started="11/13/2019 00:39:56" isStartedSynced="True" ended="11/13/2019 00:40:05" isEndedSynced="True" />
+    <Attempt id="6" started="11/13/2019 02:12:02" isStartedSynced="True" ended="11/13/2019 03:06:59" isEndedSynced="True" />
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Lucifron</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:05:50</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:05:50</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="6">
+          <RealTime>00:08:24.5140000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Magmadar</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:08:13</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:23</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="6">
+          <RealTime>00:03:07.4580000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Gehennas</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:11:59</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:46</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="6">
+          <RealTime>00:04:39.4190000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Garr</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:16:36</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:37</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="6">
+          <RealTime>00:05:37.4880000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Geddon</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:20:21</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:45</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="6">
+          <RealTime>00:04:47.2520000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Shazzrah</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:22:50</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:29</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0" />
+        <Time id="6">
+          <RealTime>00:03:03.7900000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Sulfuron</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:28:52</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:02</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:06:24</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:09:00.2440000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Golemagg</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:32:04</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:12</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="6">
+          <RealTime>00:03:39.7930000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Majordomo</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:34:59</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:22</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="6">
+          <RealTime>00:12:15.1570000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Ragnaros</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:39:56</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:57</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>
