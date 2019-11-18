@@ -12,9 +12,9 @@ Automatically split your runs when a boss dies.
 ### Live Split Setup
   1. Open Live Split and right click on the interface.
   2. Import the layout and choose from file `Molten_Core.lsl`.
-  3. Import the splits (for example from the included file `MC.lss`) OR set up your own splits.
-  4. In Settings assign a hotkey for splits and resets.
-  5. Make sure Global Hotkeys are enabled.
+  3. Import the splits (for example from the included file `MC.lss`). If you do not want to use my splits you can: still import the `MC.lss` file and delete the segement timers, or write in the boss names yourself and start blank. 
+  5. In Settings assign a hotkey for splits and resets.
+  6. Make sure Global Hotkeys are enabled.
   
 ### Python Script Setup
   1. Change the hot key (I use F1) on line 23 of splits.py to match the setting in Live Split.
