@@ -20,7 +20,7 @@ def activeScanner():
 					if fndt not in data.keys():
 						if fndt > initial_run_time:
 							data[fndt]=fndtstr
-							keyboard.press(Key.f1)
+							keyboard.press(Key.f1) ###CHANGE TO YOUR SPLIT HOTKEY####
 						else:
 							#not from this session, ignore
 							pass
