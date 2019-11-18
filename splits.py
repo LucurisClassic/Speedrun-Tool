@@ -3,7 +3,7 @@ import sys
 import time
 import datetime
 import subprocess
-import pynput
+import pynput 
 from pynput.keyboard import Key, Controller
 screenshotsfolder = 'C:\\Program Files (x86)\\World of Warcraft\\_classic_\\Screenshots'
 
