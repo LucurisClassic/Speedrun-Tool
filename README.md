@@ -7,7 +7,7 @@ Automatically split your runs when a boss dies.
     * Pynput (installed via pip)
   * [Memoria](https://www.curseforge.com/wow/addons/memoria) - Takes a screenshot when a raid boss dies.
   * [LiveSplit](http://livesplit.org/) - A tool used by speed runners for Ocarina of Time, Super Mario Bros, and more.
-      ![LiveSplit layout example](https://imgur.com/dxKTVi9)
+    [LiveSplit layout example](https://imgur.com/dxKTVi9)
 
 ### Live Split Setup
   1. Open Live Split and right click on the interface.
