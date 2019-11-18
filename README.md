@@ -1,5 +1,5 @@
 # WoW-Livesplit
-Automatically split your runs when a boss dies.
+Automatically split your runs when a boss dies. This script may be against EULA, but I doubt it.
 
 ### Requirements
   * Python
