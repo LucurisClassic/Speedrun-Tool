@@ -12,7 +12,7 @@ Automatically split your runs when a boss dies.
 ### Live Split Setup
   1. Open LiveSplit.exe and right click on the interface.
   2. Import the layout by choosing the downloaded file `Molten_Core.lsl`.
-  3. Import the splits (for example from the downloaded file `MC.lss`). If you do not want to use my splits you can: still import the `MC.lss` file and delete the segement timers, or write in the boss names yourself and start blank. 
+  3. Import the splits (for example from the downloaded file `MC.lss`). If you do not want to use my splits you can still import the `MC.lss` file and delete the segement timers, or write in the boss names yourself and start blank. 
   5. In Settings assign a hotkey for splits and resets.
   6. Make sure Global Hotkeys are enabled.
   
