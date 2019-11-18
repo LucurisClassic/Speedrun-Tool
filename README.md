@@ -14,7 +14,7 @@ Automatically split your runs when a boss dies.
   2. Import the layout and choose from file `Molten_Core.lsl`.
   3. Import the splits (for example from <Tempest>'s speed run on 11/5/19) from file `MC.lss`.
   4. In Settings assign a hotkey for splits and resets.
-    * Make sure Global Hotkeys are enabled.
+  5. Make sure Global Hotkeys are enabled.
   
 ### Python Script Setup
   1. Change the key stroke on line 23 to match the setting in Live Split.
