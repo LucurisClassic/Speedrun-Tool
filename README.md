@@ -21,6 +21,6 @@ Automatically split your runs when a boss dies.
   2. Unbind the key in WoW Keybinds.
   
 ### Running the Script
-  * Open Command Prompt from the Start Menu.
+  * Open Command Prompt.
   * Type: `python C:\path\to\splits.py`
-  * Press the hotkey when you initiate the first pull and the script will handle the rest.
+  * Press the hotkey when the raid initiates the first pull and the script will handle the rest.
