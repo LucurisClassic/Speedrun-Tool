@@ -9,7 +9,7 @@ Automatically split your runs when a boss dies.
   * [LiveSplit](http://livesplit.org/) - A tool used by speed runners for Ocarina of Time, Super Mario Bros, and more.
     [LiveSplit layout example](https://imgur.com/dxKTVi9)
 
-### Live Split Setup
+### LiveSplit Setup
   1. Open LiveSplit.exe and right click on the interface.
   2. Import the layout by choosing the downloaded file `Molten_Core.lsl`.
   3. Import the splits (for example from the downloaded file `MC.lss`). If you do not want to use my splits you can still import the `MC.lss` file and delete the segement timers, or write in the boss names yourself and start blank. 
@@ -17,7 +17,7 @@ Automatically split your runs when a boss dies.
   6. Make sure Global Hotkeys are enabled.
   
 ### Python Script Setup
-  1. Change the hot key (I use F1) on line 23 of `splits.py` to match the setting in Live Split.
+  1. Change the hot key (I use F1) on line 23 of `splits.py` to match the setting in LiveSplit.
   2. Unbind the key in WoW Keybinds.
   
 ### Running the Script
