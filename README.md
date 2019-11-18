@@ -17,7 +17,7 @@ Automatically split your runs when a boss dies.
   5. Make sure Global Hotkeys are enabled.
   
 ### Python Script Setup
-  1. Change the key stroke on line 23 of splits.py to match the setting in Live Split.
+  1. Change the hot key (I use F1) on line 23 of splits.py to match the setting in Live Split.
   2. Unbind the key in WoW Keybinds.
   
   
